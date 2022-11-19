@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>array functions</title>
+</head>
+<body>
+    
+
+ <script>
+
+       //push//
+      //const vegetables = ['parsnip', 'potato'];
+      //const moreVegs = ['celery', 'beetroot'];
+     //vegetables.push(...moreVegs);
+     //document.write((vegetables)); 
+            
+            
+
+        //  pop //
+        // const myFish = ['angel', 'clown', 'mandarin', 'sturgeon'];
+        // const popped = myFish.pop();
+        // document.write((myFish)); 
+        // alert(popped);
+
+
+
+        //   reverse//
+        // const items = [1, 2, 3];
+        // document.write((items));
+        // items.reverse();
+        // document.write((items));      
+
+ 
+ 
+        //  spice//
+        // const myFish = ['angel', 'clown', 'mandarin', 'voillon'];
+        // const removed = myFish.splice(2, 0, 'drum', 'guitar');
+        // document.write(myFish)
+
+
+
+        // slice//
+        // const fruits = ['Banana', 'Orange', 'Lemon', 'Apple', 'Mango'];
+        // const citrus = fruits.slice(1, 3);
+        // document.write(citrus)
+  
+  
+  
+        // sort//
+        // const items = ['bat', 'ball', 'wicket', 'cafe', 'hockey', 'footbal'];
+        // items.sort((a, b) => a.localeCompare(b));
+        // document.write(items)
+
+
+
+          //  shift//
+         //   const array1 = [1, 2, 3];
+        //   const firstElement = array1.shift();
+       //   document.write((array1));
+      //   document.write((firstElement));
+
+
+
+        //  to string  //
+        //  const array1 = [1, 2, 'a', '1a'];
+        //  document.write(array1.toString());
+   
+
+
+        //  join //
+        // const elements = ['Fire', 'Air', 'Water'];
+        // document.write((elements.join('')));
+
+
+
+        // unshift//
+        // const array1 = [1, 2, 3];
+        // document.write(array1.unshift(4, 5));
+        // document.write(array1);
+
+
+
+        // concat//
+        // const array1 = ['a', 'b', 'c'];
+        // const array2 = ['d', 'e', 'f'];
+        // const array3 = array1.concat(array2);
+        // document.write((array3));
+        
+        
+ </script>
+
+</body>
+</html>
